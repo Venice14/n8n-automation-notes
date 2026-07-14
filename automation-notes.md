@@ -24,3 +24,12 @@
 ## Safety rule
 
 Never put passwords, API keys, personal customer data, or secret header values in GitHub.
+
+## Troubleshooting checklist
+
+1. Check that the trigger started.
+2. Check that the nodes are connected.
+3. Check the input data of each node.
+4. Read the error message.
+5. Test one node at a time.
+6. Never share passwords, API keys, or secret values.
