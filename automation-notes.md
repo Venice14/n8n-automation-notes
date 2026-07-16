@@ -33,3 +33,9 @@ Never put passwords, API keys, personal customer data, or secret header values i
 4. Read the error message.
 5. Test one node at a time.
 6. Never share passwords, API keys, or secret values.
+
+## Workflow improvement ideas
+
+1. Add error notifications so failed workflows send an alert.
+2. Use filters to stop incomplete or invalid data early.
+3. Add a schedule trigger for regular automatic checks.
